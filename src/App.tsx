@@ -1,24 +1,115 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+
+import Navbar from './components/NavBar';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Navbar />
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p><p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum modi vero, veritatis illo exercitationem dolore totam corrupti sunt repudiandae ea nobis facilis suscipit illum odit recusandae optio nisi culpa asperiores.
+      </p>
     </div>
   );
 }
